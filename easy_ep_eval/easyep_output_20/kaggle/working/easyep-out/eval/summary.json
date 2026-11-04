@@ -1,0 +1,15 @@
+{
+  "original": {
+    "perplexity": 46.39179673326222,
+    "num_prompts": 50,
+    "num_nonfinite": 0
+  },
+  "pruned-easyep-20pct": {
+    "perplexity": 51.08998602889686,
+    "num_prompts": 50,
+    "num_nonfinite": 0,
+    "kl": 0.17947235427717298,
+    "top1_agreement": 0.8111654804270463,
+    "exact_match": 0.0
+  }
+}

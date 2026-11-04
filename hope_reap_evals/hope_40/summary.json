@@ -1,0 +1,23 @@
+{
+  "original": {
+    "perplexity": 40.19648381596933,
+    "num_prompts": 50,
+    "num_nonfinite": 0
+  },
+  "pruned-hope": {
+    "perplexity": 53.15660814198808,
+    "num_prompts": 50,
+    "num_nonfinite": 0,
+    "kl": 0.35297666919613224,
+    "top1_agreement": 0.671040925266904,
+    "exact_match": 0.0
+  },
+  "pruned-reap": {
+    "perplexity": 50.47975764074578,
+    "num_prompts": 50,
+    "num_nonfinite": 0,
+    "kl": 0.34347909498045026,
+    "top1_agreement": 0.6596975088967971,
+    "exact_match": 0.0
+  }
+}
